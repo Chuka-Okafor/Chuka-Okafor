@@ -24,7 +24,7 @@ Permiere Pro
 
 "Featured Projects"
 Robotic Garden Environment Simulation
-Programmed a robotic system to autonomously simulate and manage a garden environment — applying sensor integration, autonomous navigation, and AI driven adaptive control logic.
+Programmed a robotic system to autonomously simulate and manage a garden environment, applying sensor integration, autonomous navigation, and AI driven adaptive control logic.
 
 "Currently Learning"
 OWASP LLM Top 10 (AI Security framework)
