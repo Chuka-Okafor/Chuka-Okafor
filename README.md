@@ -1,35 +1,65 @@
- Hey, I'm Chuka Okafor :)
+ # Hey, I'm Chuka Okafor 👋🏿
 
-CS Student · AI Security Researcher-in-Training · Imo, Nigeria
-"The people who should be building AI safety are the same people most affected by unsafe AI."
+**CS Student · AI Security Researcher-in-Training · Imo, Nigeria 🇳🇬**
 
-"About Me"
-I'm a Third Year Computer Science student at Imo State University, Nigeria, with a deep interest in AI Security, specifically how AI systems can be exploited, manipulated, and made more resilient, especially in the African fintech and infrastructure context.
-I'm obsessed with the intersection of how AI systems behave and who gets to decide when they're safe. Spoiler: it should be more people from the Global South.
-Beyond the technical side, I'm an expert level motion graphics creator (After Effects, Premiere Pro) who built a content platform to roughly 40,000 followers, which taught me more about AI recommendation algorithms in practice than any textbook.
+> *"The people who should be building AI safety are the same people most affected by unsafe AI."*
 
-"Current Focus"
-AI Security & Adversarial Machine Learning
-Robot Programming & Autonomous Systems
-Machine Learning & Deep Learning (coursework)
-Quantum Computing & Data Management
-Independent research on AI safety in African tech ecosystems
+---
 
-"Tech and Tools"
-Python
-Machine Learing
-After Effects
-Permiere Pro
+## About Me
 
+Third year Computer Science student at **Imo State University**, Nigeria — focused on **AI Security** and what happens when AI systems get exploited, manipulated, or deployed without adequate safety review.
 
-"Featured Projects"
-Robotic Garden Environment Simulation
-Programmed a robotic system to autonomously simulate and manage a garden environment, applying sensor integration, autonomous navigation, and AI driven adaptive control logic.
+I'm particularly interested in AI security gaps in African fintech and infrastructure — systems handling millions of people's real money, with very little adversarial robustness testing.
 
-"Currently Learning"
-OWASP LLM Top 10 (AI Security framework)
-Adversarial ML attack patterns
-Microsoft AI Skills Fest (in progress, 2026)
+Beyond the technical side, I'm an expert-level motion graphics creator (After Effects · Premiere Pro) who built a content platform to **40,000+ followers** — which taught me more about how AI recommendation algorithms behave in practice than any textbook.
 
-"Lets connect"
-justindark13@gmail.com
+---
+
+## 🛠️ Tech & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=flat&logo=adobe-after-effects&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat&logo=adobe-premiere-pro&logoColor=white)
+
+---
+
+##  Featured Projects
+
+###  [African Language AI Safety Probe](https://github.com/Chuka-Okafor/African-language-safety-probe)
+> Research tool that probes whether LLM safety filters apply equally across English, Yoruba, Igbo, and Nigerian Pidgin English — investigating whether linguistic disparity creates security and fairness gaps for African users.
+
+**Stack:** Python · Anthropic API · BFS Analysis  
+**Field:** AI Safety · Multilingual NLP · Cybersecurity
+
+---
+
+###  [Robotic Garden Environment Simulation](https://github.com/Chuka-Okafor/Robot-garden-simulation)
+> Autonomous robot that navigates a simulated garden using real-time sensor inputs, BFS pathfinding, and a 7-priority adaptive control system. Built as part of Robot Programming coursework.
+
+**Stack:** Python · BFS · Adaptive Control Logic  
+**Field:** Robotics · Autonomous Systems · AI Automation
+
+---
+
+##  Certifications
+
+- ✅ **OPSWAT ICIP** — Introduction to Critical Infrastructure Protection *(July 2026)*
+- ✅ **Google Analytics Certification** *(June 2026)*
+- 🔄 **Anthropic Academy** — AI Safety & MCP courses *(In Progress)*
+- 🔄 **Fortinet NSE** — Network Security Fundamentals *(In Progress)*
+- 🔄 **Microsoft AI Skills Fest** *(In Progress)*
+
+---
+
+## 📬 Let's Connect
+
+[![Email](https://img.shields.io/badge/Email-justindark13@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:justindark13@gmail.com)
+[![TikTok](https://img.shields.io/badge/TikTok-@frosty.fx-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@frosty.fx)
+
+---
+
+*Building the pipeline of African voices in AI Security. One commit at a time.* 🔒
