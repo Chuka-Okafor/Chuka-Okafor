@@ -27,34 +27,6 @@ Beyond the technical side, I'm an expert-level motion graphics creator (After Ef
 
 ---
 
-##  Featured Projects
-
-###  [African Language AI Safety Probe](https://github.com/Chuka-Okafor/African-language-safety-probe)
-> Research tool that probes whether LLM safety filters apply equally across English, Yoruba, Igbo, and Nigerian Pidgin English — investigating whether linguistic disparity creates security and fairness gaps for African users.
-
-**Stack:** Python · Anthropic API · BFS Analysis  
-**Field:** AI Safety · Multilingual NLP · Cybersecurity
-
----
-
-###  [Robotic Garden Environment Simulation](https://github.com/Chuka-Okafor/Robot-garden-simulation)
-> Autonomous robot that navigates a simulated garden using real-time sensor inputs, BFS pathfinding, and a 7-priority adaptive control system. Built as part of Robot Programming coursework.
-
-**Stack:** Python · BFS · Adaptive Control Logic  
-**Field:** Robotics · Autonomous Systems · AI Automation
-
----
-
-##  Certifications
-
-- ✅ **OPSWAT ICIP** — Introduction to Critical Infrastructure Protection *(July 2026)*
-- ✅ **Google Analytics Certification** *(June 2026)*
-- 🔄 **Anthropic Academy** — AI Safety & MCP courses *(In Progress)*
-- 🔄 **Fortinet NSE** — Network Security Fundamentals *(In Progress)*
-- 🔄 **Microsoft AI Skills Fest** *(In Progress)*
-
----
-
 ## 📬 Let's Connect
 
 [![Email](https://img.shields.io/badge/Email-justindark13@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:justindark13@gmail.com)
