@@ -34,4 +34,4 @@ Beyond the technical side, I'm an expert-level motion graphics creator (After Ef
 
 ---
 
-*Building the pipeline of African voices in AI Security. One commit at a time.* 🔒
+*Building the pipeline of African voices in AI Security. One commit at a time.* 
